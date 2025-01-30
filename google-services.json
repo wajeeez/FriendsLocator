@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193411304353",
+    "project_id": "frinedslocator",
+    "storage_bucket": "frinedslocator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193411304353:android:6bfeadcd71a5d89b8f59e0",
+        "android_client_info": {
+          "package_name": "com.example.friendlocator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt79ClwFgrJlNS01k8d24ELHD6Ap-Gvrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
