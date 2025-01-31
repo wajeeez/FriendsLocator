@@ -12,7 +12,20 @@
           "package_name": "com.example.friendlocator"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "193411304353-97vom7d02seprmfv6i7jqsfv2lg7lq0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friendlocator",
+            "certificate_hash": "224928122e61e61a1a12eed86c58eaeb858fc927"
+          }
+        },
+        {
+          "client_id": "193411304353-1385ti25p5qofjlj91u52ec84m53qpns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBt79ClwFgrJlNS01k8d24ELHD6Ap-Gvrk"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193411304353-1385ti25p5qofjlj91u52ec84m53qpns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
